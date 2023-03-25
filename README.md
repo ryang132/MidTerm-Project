@@ -1,5 +1,5 @@
 # MidTerm-Project
 
+LINK TO PROJECT
 
-Download the tiny_Data.zip and upload it to files in provided google colab file.
-Run the first cell to unzip the tiny_data.zip
+(https://colab.research.google.com/drive/1Dkwy4q5Q3ZRyV7j-CvsxspdpjJcDrjPO?usp=sharing)
